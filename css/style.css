@@ -17,6 +17,9 @@ section{
 .item{
 	background-color: lightblue;
 	width: 80px;
+	border: 1px solid black;
+	border-top: none;
+	border-right: none;
 	text-align: center;
 	float: right;
 	margin-bottom: 10px;
