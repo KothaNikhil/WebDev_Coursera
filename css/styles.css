@@ -1,0 +1,51 @@
+#navbar{
+	background-color: rgba(0,0,0, 0.6);
+	border: 1px solid black;
+	margin-bottom: 0;
+}
+#navbar-heading{
+	color: black;
+	font-weight: bold;
+	font-size: 1.6em;
+}
+#menuButton{
+	background-color: lightgray;
+}
+#menuButton:hover{
+	background-color: rgba(0,0,0, 0.4);
+}
+#MenuList{
+	text-align: center;
+	background-color: lightgray;
+	border: 1px solid black;
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a{
+	color: black;
+}
+.line{
+	background-color: black;
+	height: 1px;
+	width: 95%;
+	margin: 0 auto;
+}
+#header{
+	border-bottom: none;
+}
+#rowdiv{
+	margin: 0;
+}
+#sectionchicken{
+	width: 98%;
+	border: 2px solid black;
+	margin: 0 auto;
+	padding: 15px;
+	margin-left: 1%;
+	background-color: rgba(0,0,0, 0.2);
+}
+.sectionheading{
+	font-size: 1.5em;
+	margin-bottom: 15px;
+}
